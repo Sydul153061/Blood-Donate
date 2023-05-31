@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Save_Life</string>
+    <string name="Speeches">I am here to present a speech on blood donation.As we all know, blood is an important fluid that flows in our body. It is so important that if we lose excess of it from our body, we can die. But we are very lucky to have a blood transfusion process that can help save the lives of the people.
+The lives can only be saved if we have enough blood for the transfusion. Hence, blood donation is the only medium that can help us. People around the world donate blood which helps treat people with ill- health.
+There are various benefits of donating blood. It not only helps the receiver but also enhances the health of the donor. It revitalizes the body for better health.
+One blood donation can benefit many people. A single donation can help at least three people in need. It also makes the work of blood banks easier.
+Blood donation also helps us to know our bodies. Before blood donation, our bodies undergo various health check-ups such as iodine levels, blood glucose levels, blood pressure, etc. This way we get a complete diagnosis of the body.
+Blood donation is so important that the world celebrates Blood donor day on 14th June every year. This day is celebrated to raise awareness about life-saving procedures and to promote blood donation.
+The World Health Organization organizes the campaign that invites people to donate blood. Not everyone can donate blood. A person between the age bracket of 17-66 years can donate blood. He/she should weigh more than 50 kgs and should be healthy. People suffering from diseases like diabetes, hypertension, etc cannot donate blood.
+With the said piece of information, I would request you all to donate blood more often. It can save many lives. Blood donation is our responsibility towards society.
+</string>
+    <array name="bloodGroup">
+        <item>Select Blood Group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </array>
+</resources>
